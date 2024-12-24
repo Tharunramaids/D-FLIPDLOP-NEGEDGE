@@ -69,8 +69,8 @@ endmodule
 
 **TIMING DIGRAM**
 
+![Screenshot 2024-12-24 100559](https://github.com/user-attachments/assets/1f1cf8e6-db9f-4b99-bfe6-8d60fc70bc2e)
 
-![output 8](https://github.com/user-attachments/assets/4c61807a-b6ae-4aa2-a99d-3f8b6d6b0e05)
 
 **RESULT**
 
